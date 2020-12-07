@@ -39,14 +39,16 @@ I have a good understanding of Service Oriented concepts and experience with Agi
 - CoffeeScript
 - HTML/HTML5, CSS/CSS3
 - JSON/XML/CSV
-- Less, PostCSS
+- Less, PostCSS, Sass
 - NodeJS
 - WebPack, Gulp, Grunt
 - GIT/SVN
 - SQL
+- GraphQL
 ### RDBMS/NoSQL 
 - MySQL
 - MongoDB
+- PostgreSQL
 - DynamoDB
 ### Methodologies
 - Agile
@@ -58,6 +60,7 @@ I have a good understanding of Service Oriented concepts and experience with Agi
 - Microsoft Windows
 ###	Frameworks
 - 	Angular
+-	VueJS
 - 	React, Redux, Redux Saga
 - 	Ember
 - 	jQuery
@@ -66,23 +69,194 @@ I have a good understanding of Service Oriented concepts and experience with Agi
 - 	Express
 - 	Cordova
 -	Ionic
+-	Material UI
+- 	Bootstrap
+-	ExpressJS
+-	NextJS
+-	NestJS
 ### Application/Web Servers
 - NGINX
 - Apache
-Development Tools 
+- NodeJS
+### Development Tools 
 - Sublime Text
 - Atom
 - PHP Storm
 - Chrome Dev tools
+- VS Code
 ### Testing  Tools
 - Jasmine
 - Mocha
 - Sinon
+- Jest
 - Proxyquire
 - Protractor
 - SeleniumWD
 
 ## Projects
+### Multi applications integration and UI unification - USA
+#### Duration 
+( Dec 2019 - Current time ) - +1 year
+#### Description
+Create the union of applications and provide a dashboard for users with statistics, calendar, and charts for these applications. Similar to google services or Microsoft 365.
+#### Project Role 
+Frontend Tech leader
+#### Responsibilities
+- building of project architecture following existing conventions;
+- requirements analysis, tasks estimation and work with scope;
+- worked on architecture design and improvements;
+- creation of a new features and supporting of existing features;
+- coach and mentor other team members;
+- research and analysis for system design;
+- worked on code and performance optimization;
+- implementation reusable code for external services;
+- conducting meeting with customer and with team;
+- unit tests implementation;
+- mentoring and supporting less experienced team members;
+- review work of development team;
+- communication with customer;
+- Scalable Agile Framework
+#### Project Team Size
+50 team members
+
+#### Tools & Technologies
+- ReactJS
+- Redux
+- Redux Sagas
+- Typescript
+- NodeJS
+- AWS S3
+- AWS Cognito
+- .Net Framework
+- ChartJS
+- FullCalendar
+- Bootstrap
+- Sass
+
+#### Ukraine Company
+SoftServe Inc
+
+---------
+
+### Social Platform related Covid-19 - Sound of Your Love - USA
+#### Duration 
+(Oct 2020 - Dec 2020) - 2 months
+#### Description
+The application provides the ability to Family, Friends, Colleagues to record audio messages with kind words, wishes, to patients who stay alone and feel alone in hospices during a pandemic or other lockdown problems.
+#### Project Role 
+Tech Leader / Team leader
+#### Responsibilities
+- building of project architecture;
+- requirements analysis, tasks estimation and work with scope;
+- rebuild and improve after MVP/Hackathon release 
+- research and analysis for system design;
+- conducting meeting with customer and with team;
+- communication with customer;
+- support server side
+
+#### Project Team Size
+3 team members
+
+#### Tools & Technologies
+- ReactJS
+- Redux
+- Redux Sagas
+- Typescript
+- ExpressJs
+- MongoDB
+- AWS S3
+- Github Actions
+- Heroku
+- Material UI
+- JSS
+- Twillio
+
+#### Ukraine Company
+HebronSoft
+
+---------
+
+### Burglar alarm Chat - USA
+#### Duration 
+(Jun 2020 - Aug 2020) - 2 months
+#### Description
+Chat application for owners of the house who have a security system set up in their house to identify blamer in a burglar alarm. Sometimes owners can forget to disable the alarm and this application provides 3 minutes to decide to call the police or deactivate the alarm.
+#### Project Role 
+Tech Leader / Team leader
+#### Responsibilities
+- building of project architecture;
+- requirements analysis, tasks estimation and work with scope;
+- creation application from scratch;
+- coach and mentor other team members;
+- research and analysis for system design;
+- conducting meeting with customer and with team;
+- mentoring and supporting less experienced team members;
+- review work of development team;
+- communication with customer;
+- Research existing server and integration it
+
+#### Project Team Size
+4 team members
+
+#### Tools & Technologies
+- ReactJS
+- Redux
+- Redux Sagas
+- Typescript
+- NodeJs
+- AWS S3
+- Sass
+- Python 
+- PostgreSQL
+
+#### Ukraine Company
+SoftServe Inc
+
+---------
+
+### Content Management System for Ministry of Labor - Canada
+#### Duration 
+(Jan 2019 - Jul 2019) - 0.5 years
+#### Description
+Application was developed for Ministry of Labor of Canada to check and manage some data such as: expiration date of certificates of workers and companies, courses, auditors.
+#### Project Role 
+Senior Software Engineer
+#### Responsibilities
+- building of project architecture following existing conventions;
+- requirements analysis, tasks estimation and work with scope;
+- worked on architecture design and improvements;
+- creation of a new features and supporting of existing features;
+- coach and mentor other team members;
+- research and analysis for system design;
+- worked on code and performance optimization;
+- implementation reusable code for external services;
+- conducting meeting with customer and with team;
+- unit tests implementation;
+- mentoring and supporting less experienced team members;
+- review work of development team;
+- communication with customer;
+
+#### Project Team Size
+14 team members
+
+#### Tools & Technologies
+- ReactJS
+- Redux
+- Redux Sagas
+- Typescript
+- GraphQL
+- NodeJs
+- PostgreSQL
+- Docker Microservices
+- JSS
+- MaterialUI
+- Styled Components,
+
+#### Ukraine Company
+SoftServe Inc
+
+---------
+
 ### Personal Account Management System - USA
 #### Duration 
 (May 2017 - Dec 2018) - 1.5 years
