@@ -21,6 +21,10 @@ I have used to build systems like Grunt, Gulp, and WebPack.
 
 For the last 2 years, I am using Typescript in my projects to increase stability, understanding of the code base and decrease issues, and run-time errors.
 
+I was working with cloud technologies: AWS (EC2, Cognito, S3, Lambda), Heroku, Google Clouds.
+
+CI/CD: Jenkins, Bitbucket Pipeline, Heroku Pipeline, GitHub Actions
+
 I worked with Maps, Social webs, and authentication services like Auth0. I think every software application needs automation tests since it saves a lot of time to find issues and helps to create a high-quality product expectedly we use TDD or BDD practices. I have good experience and understanding of automation testing based on work with Karma, Mocha, Jasmine, and Protractor.
 
 I have a good understanding of Service Oriented concepts and experience with Agile, Scrum, and Software Development Life Cycle (SDLC). Web technologies are my passion and profession. I am a target-oriented software developer with a technical engineering background. I always try to do efficient work in a team. I have a quick learning ability and I always open to new challenges with interest and enthusiasm.
