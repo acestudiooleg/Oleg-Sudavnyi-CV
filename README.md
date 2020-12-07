@@ -3,13 +3,27 @@
 
 ## Summary of Qualifications
 
-I have about 7 years of experience in IT. I started as a PHP Developer and then switched to JavaScript.  Therefore, four last years I worked as Frontend Developer or Javascript Fullstack Developer. I have been involved in several software projects related to different spheres of business such as banking, logistic, nature, lottery and entertainment (events, virtual tours and concerts). In this CV, I described my five significant projects I was involved. At my projects, I had a chance to work on application design from scratch, working on requirements analysis and specifications, issues detection, analysis and resolving, coding, testing, code improvement and maintenance with producing technical documentation. 
+I am working IT sphere since 2012. I started as a PHP Developer and then switched to JavaScript. Therefore, last six years I worked as a Frontend Developer or Javascript Fullstack Developer. I have been involved at least in 10 different software projects related to different spheres of business such as banking, logistic, nature, lottery, entertainment, security, and healthcare. I had a chance to work on application design from scratch, working on requirements analysis and specifications, issues detection, analysis and resolving, coding, testing, code improvement, and maintenance with producing technical documentation. Since 2019 I have been working as a team leader/tech leader role in the last 2 projects
 
-Projects I was involved in, gave me an experience and deep understanding of web-development, particularly in JavaScript related stack, including work with HTML5/CSS3 and REST methodology altogether with HTTP protocol. As a plus I have good knowledge in the design of frontend single page applications based on Ember, Express, RequireJS and AngularJS frameworks. In addition, I have an experience working with NodeJS.  As a plus, I have good experience working with Bootstrap framework and used LESS and PostCSS preprocessors. In addition, I had a chance to develop the hybrid mobile applications based on Cordova with React/Redux framework. I have used build systems like Grunt, Gulp and WebPack. I worked with Maps, Social webs and authentication services like Auth0. I think every software application needs automation tests since it saves a lot of time to find issues and helps to create a high-quality product expectedly we use TDD or BDD practices. I have good experience and understanding of automation testing based on work with Karma, Mocha, Jasmine and Protractor. 
+Projects I was involved in, gave me experience and a deep understanding of web development, particularly in JavaScript-related stack, including work with HTML5/CSS3 and REST methodology altogether with HTTP protocol. 
 
-Have strong experience in OOD, OOP and design patterns.  Beside of this I have experience working with backend languages such as PHP and SQL. I had a chance to work with RDBMS and NoSQL based on MySQL and MongoDB. I have good experience of working with applications using the AWS. 
+I have good knowledge in the design of frontend single page applications based on the most popular Frontend Frameworks (React, Ember, Vue, AngularJS). 
 
-I have good understanding Service Oriented concepts and experience with Agile, Scrum and Software Development Life Cycle (SDLC). The web technologies are my passion and profession. I am a target-oriented software developer with a technical engineering background. I always try to do efficient work in a team. I have quick learning ability and I always open to new challenges with interest and enthusiasm.
+Server-side:  NodeJS and ExpressJS Framework
+
+Databases: MondoDB, PostgreSQL, MySQL
+
+UI Frameworks and CSS tools: Material UI, Bootstrap, Less, Sass, JSS.  
+
+I had a chance to develop hybrid mobile applications based on Cordova or React Native. 
+
+I have used to build systems like Grunt, Gulp, and WebPack. 
+
+For the last 2 years, I am using Typescript in my projects to increase stability, understanding of the code base and decrease issues, and run-time errors.
+
+I worked with Maps, Social webs, and authentication services like Auth0. I think every software application needs automation tests since it saves a lot of time to find issues and helps to create a high-quality product expectedly we use TDD or BDD practices. I have good experience and understanding of automation testing based on work with Karma, Mocha, Jasmine, and Protractor.
+
+I have a good understanding of Service Oriented concepts and experience with Agile, Scrum, and Software Development Life Cycle (SDLC). Web technologies are my passion and profession. I am a target-oriented software developer with a technical engineering background. I always try to do efficient work in a team. I have a quick learning ability and I always open to new challenges with interest and enthusiasm.
 
 
 ## Skills
